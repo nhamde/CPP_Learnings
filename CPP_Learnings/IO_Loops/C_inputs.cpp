@@ -1,18 +1,18 @@
 #include "C_inputs.h"
 
-void C_inputs::getInt() {
+void C_inputs::setInt() {
 	std::cin >> i;
 }
 
-void C_inputs::getDouble() {
+void C_inputs::setDouble() {
 	std::cin >> d;
 }
 
-void C_inputs::getString() {
+void C_inputs::setString() {
 	std::cin >> str;
 }
 
-void C_inputs::getChar() {
+void C_inputs::setChar() {
 	std::cin >> c;
 }
 

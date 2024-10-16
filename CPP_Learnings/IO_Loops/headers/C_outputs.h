@@ -9,10 +9,10 @@ public:
 	std::string str;
 	char c;
 
-	void getInt();		// stores integer in i
-	void getDouble();	// stores double in d
-	void getString();	// stores string in str
-	void getChar();
+	void setInt();		// stores integer in i
+	void setDouble();	// stores double in d
+	void setString();	// stores string in str
+	void setChar();
 
 	void display();		// displays all data members
 

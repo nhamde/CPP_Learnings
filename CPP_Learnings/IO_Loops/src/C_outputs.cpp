@@ -1,18 +1,18 @@
 #include "C_outputs.h"
 
-void C_outputs::getInt() {
+void C_outputs::setInt() {
 	std::cin >> i;
 }
 
-void C_outputs::getDouble() {
+void C_outputs::setDouble() {
 	std::cin >> d;
 }
 
-void C_outputs::getString() {
+void C_outputs::setString() {
 	std::cin >> str;
 }
 
-void C_outputs::getChar() {
+void C_outputs::setChar() {
 	std::cin >> c;
 }
 
