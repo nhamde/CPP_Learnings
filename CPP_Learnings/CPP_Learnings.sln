@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack_otherDS", "Stack_othe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constructors_Destructors", "Constructors_Destructors\Constructors_Destructors.vcxproj", "{9BA8BD8E-5700-4EA5-9B42-2A2EE0C8175B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Copy_constructors_copy_destructors", "Copy_constructors_copy_destructors\Copy_constructors_copy_destructors.vcxproj", "{DDA332B2-45FC-403F-935C-F9425BF61B3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{9BA8BD8E-5700-4EA5-9B42-2A2EE0C8175B}.Release|x64.Build.0 = Release|x64
 		{9BA8BD8E-5700-4EA5-9B42-2A2EE0C8175B}.Release|x86.ActiveCfg = Release|Win32
 		{9BA8BD8E-5700-4EA5-9B42-2A2EE0C8175B}.Release|x86.Build.0 = Release|Win32
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Debug|x64.ActiveCfg = Debug|x64
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Debug|x64.Build.0 = Debug|x64
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Debug|x86.Build.0 = Debug|Win32
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Release|x64.ActiveCfg = Release|x64
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Release|x64.Build.0 = Release|x64
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Release|x86.ActiveCfg = Release|Win32
+		{DDA332B2-45FC-403F-935C-F9425BF61B3F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
