@@ -54,7 +54,7 @@ public:
 		return ptr;
 	}
 
-	T* release()	// returns the raww pointer to the object. Meaning smart pointer does not work on the object but the raw pointer is still there to access the object.
+	T* release()	// returns the raw pointer to the object. Meaning smart pointer does not work on the object but the raw pointer is still there to access the object.
 	{
 		cout << "releasing smart pointer and returning pointer to object in raw pointer" << endl;
 		T* temp = ptr;

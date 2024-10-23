@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CPP_Learnings/.vs/CPP_Learnings/FileContentIndex
+/CPP_Learnings/.vs/CPP_Learnings/v17/ipch/AutoPCH
+/CPP_Learnings/.vs/CPP_Learnings/v17
+/CPP_Learnings/Concurrency/x64/Debug/Concurrency.tlog
+/CPP_Learnings/Concurrency/x64/Debug
+/CPP_Learnings/Concurrency

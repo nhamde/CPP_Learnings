@@ -1,7 +1,6 @@
 #include"Sorter.h"
 #include <iostream>
 #include <algorithm>
-// Implementing functions on sorting and searching in algorithm library
 
 bool compare(int i, int j) {
     return (i < j);

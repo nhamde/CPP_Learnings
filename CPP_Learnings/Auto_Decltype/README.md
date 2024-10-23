@@ -8,5 +8,3 @@
 ### Image 1 shows the type of line is automatically derived from the data being assigned to the variable.
 
 ### decltype is used to declare the type of an object with the help of another known object. This deduces type of object during compile time.
-
-sdf
